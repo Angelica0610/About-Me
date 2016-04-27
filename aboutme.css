@@ -1,0 +1,39 @@
+.btn1 {
+  border-radius: 12px;
+  font-size: 25px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #867979;
+  float: left;
+  font-style: italic;
+  border: 2px solid #867979;
+  align-content:;
+}
+.name {
+	float: right;
+	padding: 26px 0 0;
+	font-style: italic;
+}
+#Goals {
+	float:right;
+	padding: 26px 0 0 1;
+	font-style: italic;
+}
+section {
+	text-align: left;
+	padding: 26px 0 0 5;
+	 margin-left: left;
+    margin-right: right;
+    width: 30em	
+}
+body {
+	background-color: #990000
+}
+
+IMG.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+#music {
+	text-align: center;
+}
